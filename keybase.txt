@@ -1,0 +1,53 @@
+https://keybase.io/jajcayn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jajcayn.github.io
+  * I am jajcayn (https://keybase.io/jajcayn) on keybase.
+  * I have a public key ASAcF4kNUoikQKD8RF14RC6mim4tf23Nx5pX5VnFN1py3wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f1161807e6ba3e83f023c4413afa4dacd99a902bb15fe41c489f1e5f862c4bba0a",
+      "host": "keybase.io",
+      "kid": "01201c17890d5288a440a0fc445d78442ea68a6e2d7f6dcdc79a57e559c5375a72df0a",
+      "uid": "1fb60bbd3a1e9b20d193d788e58b2719",
+      "username": "jajcayn"
+    },
+    "merkle_root": {
+      "ctime": 1601243517,
+      "hash": "c8002e88375b40308c08bd8f088cc4fceb6526508622ebf543dc960edaf10de2776f85cb40c63e107703a1ef189d3addfbf82fa81ec9674d058662594ddf41c4",
+      "hash_meta": "7e7af482e442a1fbfb195c140e36684ddfe4e521326a29a77ac7bee8556c4bb2",
+      "seqno": 17683963
+    },
+    "service": {
+      "entropy": "/A8a/3cnh1kv9tu4+/Q1vqp4",
+      "hostname": "jajcayn.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1601243528,
+  "expire_in": 504576000,
+  "prev": "9f06e258db93836ff6ffe1eea1381f73dc2cf3870e369dd7cee68f61ea9841c5",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHBeJDVKIpECg/ERdeEQupopuLX9tzceaV+VZxTdact8Kp3BheWxvYWTESpcCM8QgnwbiWNuTg2/2/+HuoTgfc9ws84cONp3XzuaPYeqYQcXEIEDiIDH0899q1F6KMe1+zK8+YbET0GxpuNwMchGveTq1AgHCo3NpZ8RArlfyhCZINNHTeaXqSjKO3EUWjnOPQNurzM545JfF8OKCel7vAuepQU4BUk5lRXZJoABemORN27JTrG6tOAfGAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILrm/+KVaqjrUeqpVmUDOuXqDXvVkxzdB460D3bZe859o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jajcayn
